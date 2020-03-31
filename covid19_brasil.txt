@@ -1,0 +1,1 @@
+https://brasil.io/dataset/covid19/caso?search=&date=&state=MG&city=&place_type=&is_last=&city_ibge_code=
